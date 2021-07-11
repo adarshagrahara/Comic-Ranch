@@ -15,13 +15,13 @@ I was so happy that it actually worked. All parts of the website functioned toge
 
 ## What I have learnt
 So so much actually. I learned a lot about how java servlets work, how its looked down upon to use java scriptlets in a jsp page but I did anyways. 
-I all the components of classes within html, like for the css and js. 
-I learned so much about sql, that I might try to incorporate it in my next hackathon.
-I learned about some xml, to redirect the jsp page to the servlet.
-I also learned some javascript and ajax. 
-Maybe I learned too much. hah
+1. I learnt all the components of classes within html, like for the css and js. 
+2. I learnt so much about sql, that I might try to incorporate it in my next hackathon.
+3. I learnt about some xml, to redirect the jsp page to the servlet.
+4. I also learnt some javascript and ajax. 
+5. Maybe I learned too much. hah
 
 ## What's next for Comic Ranch
-There is so much. This website is not even close to half of its full potential. You could clean up the css, you could add more servlets to make it run faster, you can add more pages to make it a nicer website. Also you can add sql, not just for login and storing images, but storing posts as a whole. And not just that, but associating posts with users, have another database for users so you can check out your favorite creators. Also function to subscribe to certain creators. Maybe advertisements on the side so small creators can make some ad revenue. Also you can make your comics cost money, and grow a community with this website. And not just website. You can throw everything that I have said onto an app. Like a app on an I phone using Swift, for maybe on Android using Kotlin. There is so much you can add to this, its kinda crazy how little I have built, but much I have started.
+There is so much. This website is not even close to half of its full potential. You could clean up the css, you could add more servlets to make it run faster, you can add more pages to make it a nicer website. Also you can add sql, not just for login and storing images, but storing posts as a whole. And not just that, but associating posts with users, have another database for users so you can check out your favorite creators. Also function to subscribe to certain creators. Maybe advertisements on the side so small creators can make some ad revenue. Also you can make your comics cost money, and grow a community with this website. And not just website. You can throw everything that I have said onto an app. Like an app on an iPhone using Swift, for maybe on Android using Kotlin. There is so much you can add to this, its kinda crazy how little I have built, but much I have started.
 
 video thingi:https://youtu.be/uK645-CqiRY
